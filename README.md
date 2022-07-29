@@ -5,7 +5,7 @@
 
 - 🎓 Studying Computer Science at [Royal Holloway](https://www.royalholloway.ac.uk)
 - 🔭 Working on [Noodle](https://github.com/ixahmedxi/noodle)
-- 🌱 Currently learning Web Development
+- 🌱 Exploring **[ AI, Crypto, Web Dev, Mobile Dev ]**
 - 🧑‍🚀 Working at [PaySend](https://paysend.com/)
 <p>&nbsp;</p>
 
