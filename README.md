@@ -5,8 +5,8 @@
 
 - 🎓 Studying Computer Science at [Royal Holloway](https://www.royalholloway.ac.uk)
 - 🔭 Working on [Noodle](https://github.com/ixahmedxi/noodle)
-- 🧑‍🚀 Working at [PaySend](https://paysend.com/)
-- 🌱 interests = **[ AI, Crypto, Web Dev, Mobile Dev ]**
+- 🧑‍🚀 Intern at [PaySend](https://paysend.com/)
+- 🌱 let interests = **[ AI, Crypto, Web Dev, Mobile Dev ]**
 <p>&nbsp;</p>
 
 ---
