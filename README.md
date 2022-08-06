@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Max!<img src="https://media.giphy.com/media/gDipFXZvaUTbn3HfuC/giphy.gif" width="50"></h1>
 &nbsp
 
-<img align="right" src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" alt="coding gif" width="150">
+<img align="right" src="https://media.giphy.com/media/5eLDrEaRGHegx2FeF2/giphy.gif" alt="coding gif" width="140">
 
 - 🎓 Studying Computer Science at [Royal Holloway](https://www.royalholloway.ac.uk)
 - 🔭 Working on [Noodle](https://github.com/ixahmedxi/noodle)
