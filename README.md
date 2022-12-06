@@ -6,6 +6,7 @@
 - 🎓 Studying Computer Science at [Royal Holloway](https://www.royalholloway.ac.uk)
 - 🔭 Working on [Noodle](https://github.com/ixahmedxi/noodle)
 - 🧑‍🚀 Intern at [PaySend](https://paysend.com/)
+- 🧑‍💻 Lead at [Google DSC x Royal Holloway](https://gdsc.community.dev/royal-holloway-university-of-london/)
 - 🤩 Interests = **[ AI, Crypto, Web&Mobile Dev, Robotics ]**
 <p>&nbsp;</p>
 
