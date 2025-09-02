@@ -7,7 +7,7 @@
 </h3>
 <p>
     <samp>
-        Information Retrieval Engineer <a href="https://squirro.com/">@Squirro</a>
+        Making money move as fast as ideas
     </samp>
 </p>
 
